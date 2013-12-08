@@ -15,6 +15,15 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.tlog
+.pdb
+.idb
+.ilk
+.obj
+.sdf
+.ipch
+ipch/
+
 
 # External tool builders
 .externalToolBuilders/
